@@ -288,6 +288,39 @@ function changeGreet () {
 console.log('1: ', greet)
 changeGreet()
 console.log('2: ', greet)
-
 // 1: Hello!
 // 2: Hello!
+
+
+// css question
+// what is the distance between these 2 divs.
+<div style="margin: 10px 15px"></div>
+<div style="margin: 10px 15px"></div>
+
+// Ans - 10px ===> because margins are collapsible. refer to this link =>
+// https://www.smashingmagazine.com/2019/07/margins-in-css/
+
+
+// Que-
+class lazyArr {
+	
+	constructor(arr) {
+
+	}
+
+	double(fn) {
+
+	}
+
+	elements() {
+	}
+}
+
+let l = new lazyArr([2, 3, 4]);
+let double = l.double((x) => { x * x });
+
+// l.elements() [2,3,4]
+// double.elements() [4,9,16]
+
+
+
