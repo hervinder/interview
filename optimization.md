@@ -1,6 +1,6 @@
 
 https://codeburst.io/painting-and-rendering-optimization-techniques-in-browser-2e53a70e7ee
-
+https://codeburst.io/javascript-compiler-optimization-techniques-only-for-experts-58d6f5f958ca
 read browser rendering from notebook
 
 
