@@ -1,3 +1,6 @@
+
+https://codeburst.io/painting-and-rendering-optimization-techniques-in-browser-2e53a70e7ee
+
 read browser rendering from notebook
 
 
