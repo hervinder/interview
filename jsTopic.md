@@ -204,6 +204,9 @@ Closures -
 
 https://dmitripavlutin.com/simple-explanation-of-javascript-closures/
 
+stale closures-
+https://dmitripavlutin.com/react-hooks-stale-closures/
+
 
 
 
