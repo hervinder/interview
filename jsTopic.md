@@ -200,7 +200,9 @@ Arrow functions do not have an arguments binding. However, they have access to t
 
 
 
+Closures -
 
+https://dmitripavlutin.com/simple-explanation-of-javascript-closures/
 
 
 
